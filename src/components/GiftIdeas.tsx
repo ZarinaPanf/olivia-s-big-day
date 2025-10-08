@@ -6,7 +6,7 @@ const GiftIdeas = () => {
     { icon: Store, text: "Сертификат в Детский Мир" },
     { icon: Blocks, text: "Конструктор Lego Duplo" },
     { icon: Gift, text: "Развивающие игрушки" },
-    { icon: Heart, text: "Книжки с картинками" },
+    { icon: Heart, text: "Развивающие книги, книга мои первые слова с аудио" },
   ];
 
   const notGiftIdeas = [
