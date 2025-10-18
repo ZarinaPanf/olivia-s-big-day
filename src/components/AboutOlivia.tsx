@@ -77,12 +77,12 @@ const AboutOlivia = () => {
             </CardHeader>
             <CardContent>
               <p className="text-lg space-x-3">
-                <span className="font-handwriting text-2xl text-primary">мама</span>
-                <span className="font-handwriting text-2xl text-primary">папа</span>
-                <span className="font-handwriting text-2xl text-primary">баба</span>
-                <span className="font-handwriting text-2xl text-primary">ням</span>
-                <span className="font-handwriting text-2xl text-primary">неть</span>
-                <span className="font-handwriting text-2xl text-primary">да</span>
+                <span className="text-2xl text-primary">мама</span>
+                <span className="text-2xl text-primary">папа</span>
+                <span className="text-2xl text-primary">баба</span>
+                <span className="text-2xl text-primary">ням</span>
+                <span className="text-2xl text-primary">неть</span>
+                <span className="text-2xl text-primary">да</span>
               </p>
             </CardContent>
           </Card>
@@ -137,19 +137,19 @@ const AboutOlivia = () => {
           <CardContent>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
               <div>
-                <p className="font-handwriting text-3xl text-primary">3 мес</p>
+                <p className="text-3xl text-primary font-semibold">3 мес</p>
                 <p className="text-sm text-muted-foreground">Поворот</p>
               </div>
               <div>
-                <p className="font-handwriting text-3xl text-primary">8 мес</p>
+                <p className="text-3xl text-primary font-semibold">8 мес</p>
                 <p className="text-sm text-muted-foreground">Поползла</p>
               </div>
               <div>
-                <p className="font-handwriting text-3xl text-primary">10 мес</p>
+                <p className="text-3xl text-primary font-semibold">10 мес</p>
                 <p className="text-sm text-muted-foreground">Села</p>
               </div>
               <div>
-                <p className="font-handwriting text-3xl text-primary">10 мес</p>
+                <p className="text-3xl text-primary font-semibold">10 мес</p>
                 <p className="text-sm text-muted-foreground">Встала</p>
               </div>
             </div>

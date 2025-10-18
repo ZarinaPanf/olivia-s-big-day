@@ -15,7 +15,7 @@ const Footer = () => {
         </p>
         
         <p className="text-lg text-muted-foreground">
-          Оливия и её родители
+          Оливия, её сестра Амелия и родители
         </p>
       </div>
     </footer>
