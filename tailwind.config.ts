@@ -14,7 +14,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        'handwriting': ['Caveat', 'cursive'],
+        'handwriting': ['Playfair Display', 'serif'],
         'sans': ['Montserrat', 'sans-serif'],
       },
       colors: {

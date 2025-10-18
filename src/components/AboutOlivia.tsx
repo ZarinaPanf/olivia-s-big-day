@@ -80,7 +80,9 @@ const AboutOlivia = () => {
                 <span className="font-handwriting text-2xl text-primary">мама</span>
                 <span className="font-handwriting text-2xl text-primary">папа</span>
                 <span className="font-handwriting text-2xl text-primary">баба</span>
-                <span className="font-handwriting text-2xl text-primary">"ам"</span>
+                <span className="font-handwriting text-2xl text-primary">ням</span>
+                <span className="font-handwriting text-2xl text-primary">неть</span>
+                <span className="font-handwriting text-2xl text-primary">да</span>
               </p>
             </CardContent>
           </Card>
@@ -118,6 +120,7 @@ const AboutOlivia = () => {
                 <li>• Одеваться</li>
                 <li>• Когда куда-то не пускают</li>
                 <li>• Мерить температуру</li>
+                <li>• Когда что-то не дают</li>
               </ul>
             </CardContent>
           </Card>
